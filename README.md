@@ -22,6 +22,9 @@ Desenvolvido utilizando Python, com o framework de desenvolvimento web Web2py, t
 	- eSpeak: TTS offline
 	- Amazon Ivona: TTS online (não implementado)
 
+- **Integração Telegram**
+	- Bot (não implementado)
+
 - **Controle de Dispositivos** 
 	- Arduino: pySerial
 	- ESP8266: REST (não implementado)
