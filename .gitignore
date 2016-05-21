@@ -60,3 +60,14 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#web2py
+cache/
+databases/
+errors/
+sessions/
+private/
+logs/
+private/
+uploads/*
+*.pyc 
