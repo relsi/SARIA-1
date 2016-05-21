@@ -13,14 +13,14 @@ Desenvolvido utilizando Python, com o framework de desenvolvimento web Web2py, t
 ####Funcionalidades
 - **Reconhecimento de voz** 
 	- Julius: Engine Offline (não implementado)
-	- Alexa: Engine Online (não implementado)
+	- Amazon Alexa: Engine Online (não implementado)
 
 - **Reconhecimento de Texto** 
 	- Rivescript
 
 - **Sintetizador de Voz**
 	- eSpeak: TTS offline
-	- Ivona: TTS online (não implementado)
+	- Amazon Ivona: TTS online (não implementado)
 
 - **Controle de Dispositivos** 
 	- Arduino: pySerial
