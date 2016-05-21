@@ -1,7 +1,6 @@
 # S.A.R.I.A
----
+
 ###Sistema de Automação Residencial com Inteligência Artificial
----
 
 **S.A.R.I.A**  é  um  sistema  para  automação residencial  livre  que iniciou como uma experiência para construir uma interface web para controlar dispositivos e sensores através de um arduino.
 
