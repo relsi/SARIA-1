@@ -14,6 +14,8 @@ Desenvolvido utilizando Python, com o framework de desenvolvimento web Web2py, t
 - **Reconhecimento de voz** 
 	- Julius: Engine Offline (não implementado)
 	- Amazon Alexa: Engine Online (não implementado)
+	- Google Speech: Engine Online (não implementado)
+	- IBM Watson: Engine Online (não implementado)
 
 - **Reconhecimento de Texto** 
 	- Rivescript
@@ -21,6 +23,7 @@ Desenvolvido utilizando Python, com o framework de desenvolvimento web Web2py, t
 - **Sintetizador de Voz**
 	- eSpeak: TTS offline
 	- Amazon Ivona: TTS online (não implementado)
+	- IBM Watson: TTS Online (não implementado)
 
 - **Integração Telegram**
 	- Bot (não implementado)
